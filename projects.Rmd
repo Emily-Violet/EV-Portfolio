@@ -1,0 +1,20 @@
+---
+title: "Projects"
+output:
+  html_document:
+    theme: cosmo
+---
+
+# Projects
+
+## Project 1: Marketing Research Analysis
+
+A course project where I analyzed survey data using Excel and statistical tools. I used pivot tables and hypothesis testing to explore relationships between demographics and preferences, and summarized the findings in a clear, business-focused report.
+
+**Key skills:** data analysis, Excel, hypothesis testing, business communication.
+
+## Project 2: R Markdown Business Report
+
+An R Markdown report that highlighted regional sales trends and seasonality. I created tables and plots, interpreted the results, and wrote strategic recommendations for management.
+
+**Key skills:** R Markdown, reproducible reporting, data visualization, strategy.
