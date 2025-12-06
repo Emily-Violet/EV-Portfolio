@@ -3,49 +3,34 @@
 title: "About Me"
 ---
 
-## Background
-
-I'm a second-year student at VIU, developing skills 
-in data analysis, business intelligence, and statistical computing.
-
-## Skills & Tools
-
-**Analysis:**
-
-- R for data analysis
-- Data cleaning and transformation
-- Statistical analysis and interpretation
-
-**Visualization & Reporting:**
-
-- ggplot2 for professional visualizations
-- R Markdown for reproducible reports
-- Data storytelling for business audiences
-
-**Data Sources:**
-
-- CSV file processing
-- Government open data (via APIs)
-- Business performance datasets
+I’m a Business Administration student at Vancouver Island University with experience in data analysis, marketing research, and business problem-solving. My academic work focuses on using analytical tools to understand trends, support decisions, and communicate insights clearly.
 
 ## Education
 
-**VIU** - E-Management Program  
-*Expected Graduation: [Year]*
+- Bachelor of Business Administration (in progress), Vancouver Island University  
+- Coursework includes: Marketing Research, E-Management, Statistics, Finance, Microeconomics, Macroeconomics, and Data Reporting with R Markdown
 
-Relevant Coursework:
+## Technical Skills
 
-- Data Analysis for E-Management
-- Business Statistics
-- Information Systems
+- **Data Analysis:** Excel (pivot tables, statistics, cleaning), R & R Markdown  
+- **Reporting:** GitHub Pages, HTML reporting, professional visualizations  
+- **Business Tools:** Survey design, descriptive analysis, hypothesis testing  
+- **Version Control:** Git & GitHub (site deployment, workflow automation)
+
+
+
+## Outside of Business
+
+When I’m not studying or working on analytics projects, you can usually find me outside - mountain biking, running, or exploring new trails. I love the outdoors, adventure, and the mix of focus + creativity that comes from balancing academics with active time outside.
+
 
 ## Contact
 
 Feel free to connect with me:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: [polmanev@stumail.viu.ca](mailto:polmanev@stumail.viu.ca)
+- LinkedIn: [EV Polman](www.linkedin.com/in/ev-polman-883035300)
+- GitHub: [Emily-Violet](https://github.com/Emily-Violet)
 
 ---
 

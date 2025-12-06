@@ -5,16 +5,20 @@ output:
     theme: cosmo
 ---
 
-# Projects
+## Code City Cycles Operational Analysis
 
-## Project 1: Marketing Research Analysis
+This project examined multi-season operational trends for Code City Cycles using R Markdown. I analyzed revenue patterns, identified seasonal demand cycles, and created clear visualizations to help guide strategic decision-making. The final report includes professional tables, interpreted insights, and actionable recommendations to support efficient inventory and staffing decisions.
 
-A course project where I analyzed survey data using Excel and statistical tools. I used pivot tables and hypothesis testing to explore relationships between demographics and preferences, and summarized the findings in a clear, business-focused report.
+**Skills:** R Markdown, data visualization, seasonal analysis, business analytics, strategic reporting  
 
-**Key skills:** data analysis, Excel, hypothesis testing, business communication.
+→ [View full HTML report](projects/bike_data_analysis.html)
 
-## Project 2: R Markdown Business Report
+---
 
-An R Markdown report that highlighted regional sales trends and seasonality. I created tables and plots, interpreted the results, and wrote strategic recommendations for management.
+## Marketing Research Survey Analysis
 
-**Key skills:** R Markdown, reproducible reporting, data visualization, strategy.
+This applied marketing research project involved analyzing real survey data using Excel tools such as pivot tables, chi-square tests, and two-sample means testing. I explored relationships between demographics, preferences, and behavioural patterns to draw evidence-based conclusions and generate useful business insights. The project demonstrates my ability to extract and interpret meaningful patterns from large datasets.
+
+**Skills:** Excel analytics, consumer insights, hypothesis testing, survey design, descriptive statistics  
+
+→ [Download Excel file](projects/MARK366-Assignment4Submit.xlsx)

@@ -3,27 +3,14 @@
 title: "Welcome to My Portfolio"
 ---
 
-## Hello and Welcome!
+Hi! I’m EV, a second-year Bachelor of Business Administration student with a growing focus on data analysis, marketing research, and business strategy. I enjoy turning messy data into clear insights and building clean, professional reports using R Markdown, Excel, and GitHub.
 
-I'm [Your Name], and this is my portfolio. Here you'll find 
-projects showcasing my skills in:
+This portfolio showcases a selection of my academic work, including business analytics, marketing research, and operational analysis projects. You’ll find examples of R Markdown reporting, Excel-based analytics, and structured recommendations grounded in real data.
 
-- Data cleaning and transformation
-- Statistical analysis
-- Data visualization with ggplot2
-- Professional reporting with R Markdown
-
-### Featured Projects
-
-Throughout this portfolio, you'll see analyses covering:
-
-- **Government Data Analysis:** Working with real-world public datasets
-- **Business Performance:** Analyzing operational data for insights
-- **Data Visualization:** Creating compelling charts and graphics
 
 ### Navigate This Portfolio
 
-Use the menu above to:
+Use the navigation bar above to explore my work or learn more about me.
 
 - Learn more [about me](about.html)
 - View my [projects](projects.html)
